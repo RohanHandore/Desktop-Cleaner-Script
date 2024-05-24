@@ -74,7 +74,7 @@ The script categorizes and moves files based on the following extensions:
 - **Archives:** `.zip`, `.rar`, `.7z`, `.tar`, `.gz`
 
 ### Bend
-1. **Run the below command in commond prompt if you have bend setup:**
+1. **Run the below command in the terminal if you have bend setup:**
 ```bash
 bend run cleaner.bend
 ```
