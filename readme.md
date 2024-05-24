@@ -19,7 +19,7 @@ Before running the scripts, ensure you have the necessary environment set up:
 ### Cloning the Repository
 To get started with these scripts, clone the repository to your local machine using:
 ```bash
-git clone https://github.com/your-username/desktop-cleaner.git
+git clone https://github.com/RohanHandore/Desktop-Cleaner-Script.git
 cd desktop-cleaner
 ```
 
